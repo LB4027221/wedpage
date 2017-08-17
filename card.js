@@ -787,7 +787,6 @@
                     },
                     "success": true
                 }
-                console.log(testdata)
                 cb && cb(testdata)
             },
             init: function (t) {
