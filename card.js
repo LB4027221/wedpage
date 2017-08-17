@@ -250,7 +250,7 @@
             initData: function (t, e) {
                 var i = this;
                 //overwrite t.cover
-                t.cover = '/assets/smallt.png';
+                t.cover = './assets/smallt.png';
                 i.config = t,
                     $("#loading-cover").css("background-image", "url(" + t.cover + "?/sq/150)"),
                     t.global_css && (new m(null, null, t.global_css).renderCss("global"),
