@@ -550,7 +550,7 @@
                                     },
                                     "text_98266": {
                                         "font_color": "#000000",
-                                        "value": "あいしてる",
+                                        "value": "",
                                         "default_color": "#000000",
                                         "tag_id": 504,
                                         "id": 0
