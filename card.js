@@ -250,7 +250,7 @@
             initData: function (t, e) {
                 var i = this;
                 //overwrite t.cover
-                t.cover = './assets/smallt.png';
+                t.cover = './assets/smallt.jpg';
                 i.config = t,
                     $("#loading-cover").css("background-image", "url(" + t.cover + "?/sq/150)"),
                     t.global_css && (new m(null, null, t.global_css).renderCss("global"),
@@ -338,7 +338,7 @@
                                         "id": 0
                                     },
                                     "bg_img_05474": {
-                                        "value": "./assets/first.jpg",
+                                        "value": "./assets/first-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 106
@@ -358,7 +358,7 @@
                                         "id": 0
                                     },
                                     "bg_img_44194": {
-                                        "value": "./assets/1-1.png",
+                                        "value": "./assets/1-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 109
@@ -397,7 +397,7 @@
                                 "tpl_name": "底部小图",
                                 "mod_41101": {
                                     "image_30312": {
-                                        "value": "./assets/smar2.png",
+                                        "value": "./assets/smar2.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 201
@@ -410,7 +410,7 @@
                                         "id": 0
                                     },
                                     "image_57496": {
-                                        "value": "./assets/3-1.png",
+                                        "value": "./assets/3-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 203
@@ -423,7 +423,7 @@
                                         "id": 0
                                     },
                                     "image_31161": {
-                                        "value": "./assets/4-1.png",
+                                        "value": "./assets/4-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 205
@@ -433,13 +433,13 @@
                             {
                                 "mod_12831": {
                                     "image_35963": {
-                                        "value": "./assets/5.png",
+                                        "value": "./assets/5.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 301
                                     },
                                     "image_83971": {
-                                        "value": "./assets/6-1.png",
+                                        "value": "./assets/6-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 302
@@ -461,13 +461,13 @@
                             {
                                 "mod_76318": {
                                     "bg_img_21462": {
-                                        "value": "./assets/8-1.png",
+                                        "value": "./assets/8-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 401
                                     },
                                     "bg_img_98686": {
-                                        "value": "./assets/7-1.png",
+                                        "value": "./assets/7-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 402
@@ -530,7 +530,7 @@
                             {
                                 "mod_94567": {
                                     "image_39283": {
-                                        "value": "./assets/13.png",
+                                        "value": "./assets/13.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 501
@@ -546,7 +546,7 @@
                                         "tag_id": 503,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/9-1.png"
+                                        "value": "./assets/9-1.jpg"
                                     },
                                     "text_98266": {
                                         "font_color": "#000000",
@@ -559,19 +559,19 @@
                                         "tag_id": 505,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/12-1.png"
+                                        "value": "./assets/12-1.jpg"
                                     },
                                     "image_48306": {
                                         "tag_id": 506,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/11-1.png"
+                                        "value": "./assets/11-1.jpg"
                                     },
                                     "image_29979": {
                                         "tag_id": 507,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/10-1.png"
+                                        "value": "./assets/10-1.jpg"
                                     }
                                 },
                                 "deletable": true,
@@ -603,7 +603,7 @@
                                         "id": 0
                                     },
                                     "wedding_video_cover": {
-                                        "value": "./assets/14-1.png",
+                                        "value": "./assets/14-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 604
@@ -641,7 +641,7 @@
                                         "id": 0
                                     },
                                     "bg_img_55818": {
-                                        "value": "./assets/15-1.png",
+                                        "value": "./assets/15-1.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 703
