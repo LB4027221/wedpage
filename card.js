@@ -593,7 +593,7 @@
                                         "tag_id": 602,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "//www.iqiyi.com/w_19rvm6e4xd.html"
+                                        "value": "./asserts/video.mp4"
                                     },
                                     "text_72437": {
                                         "font_color": "#000000",
