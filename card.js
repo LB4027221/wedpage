@@ -3,7 +3,7 @@
     function e(i) {
         if (n[i])
             return n[i].exports;
-        var s = n[i] = {
+        var s = n[i] = config{
             exports: {},
             id: i,
             loaded: !1
