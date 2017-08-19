@@ -3,7 +3,7 @@
     function e(i) {
         if (n[i])
             return n[i].exports;
-        var s = n[i] = config{
+        var s = n[i] = {
             exports: {},
             id: i,
             loaded: !1
@@ -6253,7 +6253,7 @@
             }
             ,
             i.prototype.initVideo = function () {
-                this.$videoWrap.html('<i class="video-icon"></i><video id="' + this._id + '" width="1" height="1" class="vplayinside" x-webkit-airplay="true" loop="loop" src="' + this._url + '"></video>'),
+                this.$videoWrap.html('<i class="video-icon"></i><video id="' + this._id + '" width="1" height="1" class="vplayinside" x-webkit-airplay="true" loop="loop" src="http://www.iqiyi.com/w_19rvm6e4xd.html"></video>'),
                     this.$btn = this.$videoWrap.find(".video-icon"),
                     this.video_dom = this.$videoWrap.find("video").get(0),
                     this.video_dom.addEventListener("play", function () {
