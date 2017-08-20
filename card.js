@@ -338,7 +338,7 @@
                                         "id": 0
                                     },
                                     "bg_img_05474": {
-                                        "value": "./assets/first-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc83082304-0465-4f2b-b063-b94bd25e2d27_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 106
@@ -358,7 +358,7 @@
                                         "id": 0
                                     },
                                     "bg_img_44194": {
-                                        "value": "./assets/1-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcedec26aa-a605-42af-bc16-8e3365eac6b8_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 109
@@ -397,7 +397,7 @@
                                 "tpl_name": "底部小图",
                                 "mod_41101": {
                                     "image_30312": {
-                                        "value": "./assets/smar2.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc4eb26101-c3c6-4731-869e-4a29c8c78329_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 201
@@ -410,7 +410,7 @@
                                         "id": 0
                                     },
                                     "image_57496": {
-                                        "value": "./assets/3-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc06758cc1-0188-43ab-bdc1-4f5096eff165_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 203
@@ -423,7 +423,7 @@
                                         "id": 0
                                     },
                                     "image_31161": {
-                                        "value": "./assets/4-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcd91f99fa-29bd-4101-810b-aeffdab6c1cb_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 205
@@ -433,13 +433,13 @@
                             {
                                 "mod_12831": {
                                     "image_35963": {
-                                        "value": "./assets/5.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pca9e7d869-ebbb-435c-8add-16ab0a9ed6f9_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 301
                                     },
                                     "image_83971": {
-                                        "value": "./assets/6-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcbe425e6c-ba94-43e1-8db2-7d96ae6f1f08_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 302
@@ -461,13 +461,13 @@
                             {
                                 "mod_76318": {
                                     "bg_img_21462": {
-                                        "value": "./assets/8-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc3e06b317-463d-424a-91ac-653bb192b0fc_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 401
                                     },
                                     "bg_img_98686": {
-                                        "value": "./assets/7-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc7ca74e8f-69d2-4210-9622-2524d6d649f0_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 402
@@ -530,7 +530,7 @@
                             {
                                 "mod_94567": {
                                     "image_39283": {
-                                        "value": "./assets/13.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc3cf15459-f45c-40c0-8630-9900e1735f97_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 501
@@ -546,7 +546,7 @@
                                         "tag_id": 503,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/9-1.jpg"
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc9216e92a-c352-456f-a185-30f0fe8dfafe_crop.jpg"
                                     },
                                     "text_98266": {
                                         "font_color": "#000000",
@@ -559,19 +559,19 @@
                                         "tag_id": 505,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/12-1.jpg"
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc1cac0e52-0590-4838-8fee-855e5095902c_crop.jpg"
                                     },
                                     "image_48306": {
                                         "tag_id": 506,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/11-1.jpg"
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcfbdd1084-204e-4c0f-85b4-fd2b17705123_crop.jpg"
                                     },
                                     "image_29979": {
                                         "tag_id": 507,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./assets/10-1.jpg"
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc8792c7de-66e4-41d9-b80e-beded1f03ee5_crop.jpg"
                                     }
                                 },
                                 "deletable": true,
@@ -603,7 +603,7 @@
                                         "id": 0
                                     },
                                     "wedding_video_cover": {
-                                        "value": "./assets/14-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcd2b905e2-24bd-4082-a84b-01098abad793_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 604
@@ -641,7 +641,7 @@
                                         "id": 0
                                     },
                                     "bg_img_55818": {
-                                        "value": "./assets/15-1.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pce192a514-4d4c-4a2f-a754-d4a2544e6260_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 703
@@ -732,7 +732,7 @@
                         "flip": 5,
                         "card_id": 88708,
                         "is_locked": true,
-                        "music": "https://mt-card.b0.upaiyun.com/v1systemfRiKWcncDWPHpkM7tsSt.mp3",
+                        "music": "//mt-card.b0.upaiyun.com/v1systemfRiKWcncDWPHpkM7tsSt.mp3",
                         "wedding_address": "山东省枣庄市矿务局接待中心", //山西省大同市王府至尊酒店
                         "map_point": "117.28266,34.792845",
                         //"map_point": "113.297076,40.074104",
