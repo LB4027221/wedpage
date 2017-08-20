@@ -338,7 +338,7 @@
                                         "id": 0
                                     },
                                     "bg_img_05474": {
-                                        "value": "//mt-card.b0.upaiyun.com/card/pcedec26aa-a605-42af-bc16-8e3365eac6b8_crop.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcedec26aa-a605-42af-bc16-8e3365eac6b8_crop.jpg!",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 106
@@ -358,7 +358,7 @@
                                         "id": 0
                                     },
                                     "bg_img_44194": {
-                                        "value": "//mt-card.b0.upaiyun.com/card/pc42f6def2-d1af-41a4-8d62-713c7949e6b3_crop.jpg!webp",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc42f6def2-d1af-41a4-8d62-713c7949e6b3_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 109
