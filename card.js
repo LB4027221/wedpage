@@ -593,7 +593,7 @@
                                         "tag_id": 602,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "./asserts/video.mp4"
+                                        "value": "//mt-card.b0.upaiyun.com//card/pcbd9cab67-09c9-4c7e-858b-fd32ca0bcaec.mp4"
                                     },
                                     "text_72437": {
                                         "font_color": "#000000",
