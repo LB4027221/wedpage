@@ -6253,7 +6253,7 @@
             }
             ,
             i.prototype.initVideo = function () {
-                this.$videoWrap.html('<i class="video-icon"></i><video id="' + this._id + '" width="1" height="1" class="vplayinside" x-webkit-airplay="true" loop="loop" src="http://www.iqiyi.com/w_19rvm6e4xd.html"></video>'),
+                this.$videoWrap.html('<i class="video-icon"></i><video id="' + this._id + '" width="1" height="1" class="vplayinside" x-webkit-airplay="true" loop="loop" src="//mt-card.b0.upaiyun.com//card/pcbd9cab67-09c9-4c7e-858b-fd32ca0bcaec.mp4"></video>'),
                     this.$btn = this.$videoWrap.find(".video-icon"),
                     this.video_dom = this.$videoWrap.find("video").get(0),
                     this.video_dom.addEventListener("play", function () {
