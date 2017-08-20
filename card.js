@@ -338,7 +338,7 @@
                                         "id": 0
                                     },
                                     "bg_img_05474": {
-                                        "value": "//mt-card.b0.upaiyun.com/card/pcc71dd3a7-a5f2-4ca1-a658-e7824a2eaaed_crop.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcedec26aa-a605-42af-bc16-8e3365eac6b8_crop.jpg!webp",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 106
@@ -358,7 +358,7 @@
                                         "id": 0
                                     },
                                     "bg_img_44194": {
-                                        "value": "//mt-card.b0.upaiyun.com/card/pcedec26aa-a605-42af-bc16-8e3365eac6b8_crop.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc42f6def2-d1af-41a4-8d62-713c7949e6b3_crop.jpg!webp",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 109
@@ -439,7 +439,7 @@
                                         "tag_id": 301
                                     },
                                     "image_83971": {
-                                        "value": "//mt-card.b0.upaiyun.com/card/pcbd5110eb-38b5-496c-a000-3782b622403f_crop_crop.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pcdd157997-9543-4815-abae-cb240527d49f_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 302
@@ -530,7 +530,7 @@
                             {
                                 "mod_94567": {
                                     "image_39283": {
-                                        "value": "//mt-card.b0.upaiyun.com/card/pc3cf15459-f45c-40c0-8630-9900e1735f97_crop.jpg",
+                                        "value": "//mt-card.b0.upaiyun.com/card/pc3cf15459-f45c-40c0-8630-9900e1735f97_crop_crop.jpg",
                                         "default_color": "",
                                         "id": 0,
                                         "tag_id": 501
