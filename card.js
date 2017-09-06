@@ -286,12 +286,12 @@
                     "data": {
                         "bride_name": "张楠",
                         "bridegroom_name": "刘波",
-                        "wedding_time": 1507175880,
+                        "wedding_time": 1506831480,
                         "module_data": [
                             {
                                 "header": {
                                     "wedding_time_64880": {
-                                        "value": 1507175880,
+                                        "value": 1506831480,
                                         "font_id": 0,
                                         "attr_name": "wedding_time_64880",
                                         "tag_id": 101,
@@ -480,7 +480,7 @@
                                         "id": 0
                                     },
                                     "text_07565": {
-                                        "value": "11点58分  宴会开始",
+                                        "value": "12点18分  宴会开始",
                                         "tag_id": 404,
                                         "font_id": 15,
                                         "id": 0,
@@ -593,7 +593,7 @@
                                         "tag_id": 602,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "//mt-card.b0.upaiyun.com//card/pcbd9cab67-09c9-4c7e-858b-fd32ca0bcaec.mp4"
+                                        "value": "https://p.bokecc.com/flash/single/5A013E2F575E2FE3_9F391D92BEA5537D9C33DC5901307461_false_C17EF6799212D705_1/player.swf"
                                     },
                                     "text_72437": {
                                         "font_color": "#000000",
@@ -618,7 +618,7 @@
                             {
                                 "map": {
                                     "lsc_time_87314": {
-                                        "value": 1507175880,
+                                        "value": 1506831480,
                                         "tag_id": 701,
                                         "default_color": "#000000",
                                         "font_color": "#000000",
@@ -628,7 +628,7 @@
                                         "id": 0
                                     },
                                     "wedding_time_59865": {
-                                        "value": 1507175880,
+                                        "value": 1506831480,
                                         "font_id": 0,
                                         "attr_name": "wedding_time_59865",
                                         "tag_id": 702,
@@ -647,7 +647,7 @@
                                         "tag_id": 703
                                     },
                                     "wedding_address": {
-                                        "value": "山东省枣庄市矿务局接待中心", //山西省大同市王府至尊酒店
+                                        "value": "山西省大同市王府至尊酒店如意厅", //
                                         "font_id": 0,
                                         "attr_name": "wedding_address",
                                         "tag_id": 704,
@@ -666,8 +666,8 @@
                                         "id": 0
                                     },
                                     "map_point": {
-                                        "value":"117.28266,34.792845", 
-                                        //"value": "113.297076,40.074104",
+                                        //"value":"117.28266,34.792845", 
+                                        "value": "113.297076,40.074104",
                                         "font_id": 0,
                                         "attr_name": "map_point",
                                         "tag_id": 706,
@@ -733,9 +733,9 @@
                         "card_id": 88708,
                         "is_locked": true,
                         "music": "//mt-card.b0.upaiyun.com/v1systemfRiKWcncDWPHpkM7tsSt.mp3",
-                        "wedding_address": "山东省枣庄市矿务局接待中心", //山西省大同市王府至尊酒店
-                        "map_point": "117.28266,34.792845",
-                        //"map_point": "113.297076,40.074104",
+                        "wedding_address": "山西省大同市王府至尊酒店如意厅", //
+                        //"map_point": "117.28266,34.792845",
+                        "map_point": "113.297076,40.074104",
                         "theme_id": 83,
                         "config": {
                             "un_tail": false,
