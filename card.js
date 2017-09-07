@@ -593,7 +593,7 @@
                                         "tag_id": 602,
                                         "default_color": "",
                                         "id": 0,
-                                        "value": "https://p.bokecc.com/flash/single/5A013E2F575E2FE3_9F391D92BEA5537D9C33DC5901307461_false_C17EF6799212D705_1/player.swf"
+                                        "value": "http://111.161.105.32/vhot2.qqvideo.tc.qq.com/AweehBlgqbz19vvKYtnB_CmkpK67jkw5cfouGasMDRoc/x0547o7gfy7.mp4?sha=&sdtfrom=v1010&guid=c77fe8d0a2ccdb22e70c4383a9634810&vkey=E7EED073519A5F0EC7A15B49BD6EF6CC6FD02D3F81C2840AEDB4ED11B959FA9053C7E7A5389DF75243EC58795C661AFA99720823D215A0BB215A740923F9D17B98D73839D31070367EDAD45D93041E32421198E4532E6AAF5199F7D1E6673ED70D21833BBDBDCADB2E747C0942D15782532E73A96E762A88&ocid=354227628&ocid=558962092&ocid=1519575562"
                                     },
                                     "text_72437": {
                                         "font_color": "#000000",
@@ -6253,7 +6253,7 @@
             }
             ,
             i.prototype.initVideo = function () {
-                this.$videoWrap.html('<i class="video-icon"></i><video id="' + this._id + '" width="1" height="1" class="vplayinside" x-webkit-airplay="true" loop="loop" src="//mt-card.b0.upaiyun.com//card/pcbd9cab67-09c9-4c7e-858b-fd32ca0bcaec.mp4"></video>'),
+                this.$videoWrap.html('<i class="video-icon"></i><video id="' + this._id + '" width="1" height="1" class="vplayinside" x-webkit-airplay="true" loop="loop" src="http://111.161.105.32/vhot2.qqvideo.tc.qq.com/AweehBlgqbz19vvKYtnB_CmkpK67jkw5cfouGasMDRoc/x0547o7gfy7.mp4?sha=&sdtfrom=v1010&guid=c77fe8d0a2ccdb22e70c4383a9634810&vkey=E7EED073519A5F0EC7A15B49BD6EF6CC6FD02D3F81C2840AEDB4ED11B959FA9053C7E7A5389DF75243EC58795C661AFA99720823D215A0BB215A740923F9D17B98D73839D31070367EDAD45D93041E32421198E4532E6AAF5199F7D1E6673ED70D21833BBDBDCADB2E747C0942D15782532E73A96E762A88&ocid=354227628&ocid=558962092&ocid=1519575562"></video>'),
                     this.$btn = this.$videoWrap.find(".video-icon"),
                     this.video_dom = this.$videoWrap.find("video").get(0),
                     this.video_dom.addEventListener("play", function () {
